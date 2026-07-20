@@ -1,0 +1,7 @@
+This repository contains original work licensed under the MIT License (see LICENSE).
+
+It also contains thirdparty skills, plugins, and reference materials under their respective licenses. Each skill or component that originates from another project includes its own LICENSE file in its directory.
+
+The MIT license at the repository root applies only to files that do not contain a separate LICENSE file and are not part of a directory with its own LICENSE.
+
+No attempt is made to relicense or combine thirdparty works. Users must consult the LICENSE file in each skill or component directory for applicable terms.
