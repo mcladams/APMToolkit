@@ -1,0 +1,14 @@
+apm/
+  modules/
+    APMToolkit/
+      APMToolkit.psm1
+      APMToolkit.psd1
+      GitHelpers.psm1
+      PackagingHelpers.psm1
+      SkillHelpers.psm1
+  docs/
+    AGENTS.md
+    README.md
+  scripts/
+    Pull-Skill.ps1
+    Build-Skill.ps1
